@@ -1,3 +1,5 @@
+///https://leetcode.cn/problems/partition-list/
+///https://labuladong.github.io/algo/2/17/16/#单链表的分解
 /**
  * Definition for singly-linked list.
  * function ListNode(val, next) {
