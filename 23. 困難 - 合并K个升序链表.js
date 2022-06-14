@@ -1,4 +1,5 @@
 ///https://leetcode.cn/problems/merge-k-sorted-lists/submissions/
+///https://labuladong.github.io/algo/2/17/16/#合并-k-个有序链表
 /**
  * Definition for singly-linked list.
  * function ListNode(val, next) {
