@@ -1,4 +1,5 @@
 ///https://leetcode.cn/problems/merge-two-sorted-lists/
+///https://labuladong.github.io/algo/2/17/16/#合并两个有序链表
 /**
  * Definition for singly-linked list.
  * function ListNode(val, next) {
